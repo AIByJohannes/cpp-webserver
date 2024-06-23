@@ -1,2 +1,2 @@
 # cpp-webserver
-Simple and fast web server, written ind C/C++
+Simple and fast web server, written in C/C++
